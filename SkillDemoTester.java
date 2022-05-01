@@ -5,7 +5,7 @@ public class SkillDemoTester{
   
   @Test
   public void testing (){
-     assertEquals(4,SkillDemo.squareInt(4)); //Failing test
+     assertEquals(4,SkillDemo.squareInt(2)); //Passing test
   }
   
 }
